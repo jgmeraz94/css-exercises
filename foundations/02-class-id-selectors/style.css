@@ -1,7 +1,19 @@
 .number {
     background-color: salmon;
+    font-size: 20px;
 }
 
 .number.three {
     font-size: 25px;
+}
+
+#first {
+    color: blue;
+    font-size: 35px;
+}
+
+#second {
+    background-color: lime;
+    font-weight: bold;
+    font-size: 23px;
 }
